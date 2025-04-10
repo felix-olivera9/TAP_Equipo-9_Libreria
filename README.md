@@ -38,9 +38,6 @@ Si ya descargaste el archivo .jar de esta librería, sigue estos pasos para usar
 4. Haz clic en *Aceptar* para agregarlo a tu proyecto.
 5. Ahora ya puedes importar y utilizar las clases y métodos de la librería directamente desde tu código Java:
 
-```java
-import ControlSesion.SessionManager;
-// o cualquier otra clase que necesites
 
 ---
 
